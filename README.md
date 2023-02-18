@@ -2,10 +2,8 @@
 
 ### Hi there 👋
 
-- 📫 How to reach me:
+- 📫 How to reach me : **theo.t@gmx.fr**
 <div id="badges">
-<a href=mailto:theo.t@gmx.fr">
-    <img src="https://img.shields.io/static/v1?label=&message=Email&color=<green>&style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/th%C3%A9o-tarin-09185b24a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
